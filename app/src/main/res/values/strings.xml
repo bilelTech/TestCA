@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaBanqueApp</string>
+    <string name="item_nav_account">Mes Comptes</string>
+    <string name="account_screen_title">Mes Comptes</string>
+    <string name="account_screen_credit_agricole">Credit Agricole</string>
+    <string name="account_screen_another_account">Autres Banques</string>
+</resources>
